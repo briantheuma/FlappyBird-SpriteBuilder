@@ -62,12 +62,7 @@
     _grounds = @[_ground1, _ground2];
     _clouds = @[_cloud1, _cloud2];
     _bushes = @[_bush1, _bush2];
-    
-    CGPoint _cloudParallaxRatio;
-    CGPoint _bushParallaxRatio;
-    
-    CCNode *_parallaxContainer;
-    CCParallaxNode *_parallaxBackground;
+
     
     for (CCNode *ground in _grounds) {
         // set collision txpe
