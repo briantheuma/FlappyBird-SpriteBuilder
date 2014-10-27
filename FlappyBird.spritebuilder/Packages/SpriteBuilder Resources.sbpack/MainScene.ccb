@@ -140,9 +140,9 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>paralax container</string>
+				<string>parallaxContainer</string>
 				<key>memberVarAssignmentName</key>
-				<string>_parallaxContainer</string>
+				<string>_parallaxContainer999</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
